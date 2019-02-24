@@ -1,14 +1,39 @@
-![screenshot](https://imgur.com/esmPmxg.png)
-
 # My Project from Laracasts Laravel from Scratch 5.7
 
-## Installation
+![Screenshot of Current Version](https://imgur.com/esmPmxg.png)*Screenshot of Current Version*
 
-- All the `code` required to get started
-- Images of what it should look like
+<br>
 
----
+## Installation:
 
-### Clone
+1. First, clone the repo to your local machine:
+    - `git clone https://github.com/nesalot/laravel-from-scratch-project.git`
+1. Install the dependencies:
+    - `composer install`
+1. Make sure that environment file has been copied & all filled out with your info:
+    - `cp .env.example .env`
+1. Access the application via your browser:
+    - If you're using Laravel Valet for local development:
+        - `valet link`
+        - `valet open`
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+## Things I learned during This Lesson:
+
+- Basic Routing including Resource routing
+- Blade Templates & Layouts
+- Controllers 101
+- Databases & Migrations
+- Eloquent Relationships
+- Form Handling & CSRF Protection
+- Faking PATCH & Delete Requests
+- Form Validation
+- Service Providers
+- Laravel Auth
+- Middleware
+- Laravel Telescope
+
+***
+
+:v: Hope you enjoy! :v:
+
+
