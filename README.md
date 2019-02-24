@@ -1,8 +1,14 @@
 # My Project from Laracasts Laravel from Scratch 5.7
 
-![Screenshot of Current Version](https://imgur.com/esmPmxg.png)*Screenshot of Current Version*
+![Screenshot of Current Version](https://imgur.com/esmPmxg.png)*Screenshot of Project List View*
+
+![Screenshot of Current Version](https://imgur.com/syGZcpa.png)*Screenshot of Single Project with Tasks*
 
 <br>
+
+## Basics of App:
+
+Project Management System where a user can create Projects and each project can have tasks that can be marked completed.
 
 ## Installation:
 
