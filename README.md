@@ -1,4 +1,4 @@
-![screenshot](https://imgur.com/esmPmxg)
+![screenshot](https://imgur.com/esmPmxg.png)
 
 # My Project from Laracasts Laravel from Scratch 5.7
 
